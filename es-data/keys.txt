@@ -1,0 +1,26 @@
+"Fire primary weapon" 9
+"Show main menu" 93
+"Fire afterburner" 97
+"Board selected ship" 98
+"Toggle cloaking device" 99
+"Deploy / recall fighters" 100
+"Fleet: Fight my target" 102
+"Fleet: Gather around me" 103
+"Fleet: Hold position" 104
+"View player info" 105
+"Initiate hyperspace jump" 106
+"Land on planet / station" 108
+"View star map" 109
+"Select next ship" 110
+"Fire secondary weapon" 113
+"Select nearest hostile ship" 114
+"Scan selected ship" 115
+"Talk to selected ship" 116
+"Fleet: Toggle ammo usage" 117
+"Select secondary weapon" 119
+"Toggle fast-forward" 1073741881
+"Toggle fullscreen" 1073741892
+"Turn right" 1073741903
+"Turn left" 1073741904
+Reverse 1073741905
+"Forward thrust" 1073741906
